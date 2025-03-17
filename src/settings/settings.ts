@@ -70,7 +70,7 @@ export const DEFAULT_SETTINGS: LatexSuitePluginSettings = {
 	mathPreviewPositionIsAbove: true,
 	autofractionEnabled: true,
 	autofractionSymbol: "\\frac",
-	autofractionBreakingChars: "+-=\t",
+	autofractionBreakingChars: "+-=<>\t",
 	matrixShortcutsEnabled: true,
 	taboutEnabled: true,
 	autoEnlargeBrackets: true,
